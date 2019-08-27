@@ -6,7 +6,7 @@ This sample project for Unreal contains a more advanced setup with [HTC Vive int
 
 The project comes with dependencies for the plugins "Rokoko Live", "SteamVR" and "VirtualCamera".
 
-![Scene example](Images/image1.png?raw=true)
+![Unrel Viewport ](Images/unrealViewport.PNG?raw=true)
 
 If you want to learn more about the basics of setting up a Smartsuit with Unreal Engine, you can watch this tutorial: https://www.youtube.com/watch?v=ibawBo0d4gk
 Or you can browse the tutorials on https://www.rokoko.com/
