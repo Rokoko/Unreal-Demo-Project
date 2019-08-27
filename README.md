@@ -1,8 +1,8 @@
-<h2 align="center"> Rokoko Studio - Sample project for Unreal</h1>
+<h2 align="center"> Rokoko Studio - Mime Sample project for Unreal</h1>
 
 [Rokoko Studio](https://www.rokoko.com/en/products/studio) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
 
-This sample project for Unreal contains a more advanced setup with HTC vive integration for virtual camera use and facial live streaming using the Rokoko Remote app. 
+This sample project for Unreal contains a more advanced setup with [HTC Vive integration](https://www.rokoko.com/en/products/virtual-production) for Virtual Camera use and [Facial Live](https://www.rokoko.com/en/products/face-capture) streaming using the [Rokoko Remote App](https://apps.apple.com/us/app/rokoko-remote/id1465692290). 
 
 The project comes with dependencies for the plugins "Rokoko Live", "SteamVR" and "VirtualCamera".
 
