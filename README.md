@@ -1,4 +1,4 @@
-<h2 align="center"> Rokoko Studio - Mime Sample project for Unreal</h1>
+<h2 align="center"> Rokoko Studio - Unreal Virtual Production Sample Project</h1>
 
 [Rokoko Studio](https://www.rokoko.com/en/products/studio) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
 
