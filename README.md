@@ -30,6 +30,7 @@ In Studio, connect to steamVR and add trackers. Assign one of these trackers to 
 If you want to use the virtual camera, you have to change the gamemode to VirtualCameraGamemode (or SiggraphVirtualCameraGameMode). In order to control what prop from Studio is currently controlling the tracker, open up the VirtualCameraPlayerController (or SiggraphVirtualCameraGameMode) in your content browser. In here, you can change the class defaults "Input source" to "Live Link", and state a Live Link Target Name (You can see the valid targets inside the Live Link window while playing). 
 
 For siggraph we used a custom virtual camera, that has some gamepad controls for controlling the scene. If you want to check these controls out, they are defined in the input manager under project settings. 
+If using the siggraphCamera, you also need to open up the level blueprint, and reconnect BeginPlay to the loose nodes (They tell the siggraphcamera where to find certain actors). The siggraph version of the virtual camera does not work in packaged builds. 
 
 If you want Box-1 from Studio to control the virtual camera, you have to change the target name to prop:L:Box-1 for example
 
