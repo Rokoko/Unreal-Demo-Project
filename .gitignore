@@ -59,5 +59,6 @@ DerivedDataCache/*
 # don't ignore rokoko plugin
 !Plugins/Smartsuit/Lib/V8/Libraries/SmartsuitLib.x64.a
 !Plugins/Smartsuit/Lib/V8/Libraries/SmartsuitLib.x64.lib
+!Plugins/Smartsuit/Lib/lz4_win64_v1_9_2/static/liblz4_static.lib
 # macOS
 .DS_Store
