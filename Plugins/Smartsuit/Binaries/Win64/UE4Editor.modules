@@ -1,8 +1,0 @@
-{
-	"BuildId": "13144385",
-	"Modules": 
-	{
-		"Smartsuit": "UE4Editor-Smartsuit.dll",
-		"SmartsuitEditor": "UE4Editor-SmartsuitEditor.dll"
-	}
-}
