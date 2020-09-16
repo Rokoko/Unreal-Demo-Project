@@ -1,0 +1,89 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"D:\Programs\Epic Games\UE_4.25\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Module.Smartsuit.cpp.obj"
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Module.Smartsuit.gen.cpp.obj"
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Lib\V8\Libraries\SmartsuitLib.x64.lib"
+"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Lib\lz4_win64_v1_9_2\static\liblz4_static.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Messaging\UE4Editor-Messaging.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Plugins\Animation\LiveLink\Intermediate\Build\Win64\UE4Editor\Development\LiveLink\UE4Editor-LiveLink.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\LiveLinkInterface\UE4Editor-LiveLinkInterface.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\LiveLinkMessageBusFramework\UE4Editor-LiveLinkMessageBusFramework.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\TimeManagement\UE4Editor-TimeManagement.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\HTTP\UE4Editor-HTTP.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Networking\UE4Editor-Networking.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimGraphRuntime\UE4Editor-AnimGraphRuntime.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\JsonUtilities\UE4Editor-JsonUtilities.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"D:\Programs\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+/OUT:"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Binaries\Win64\UE4Editor-Smartsuit.dll"
+/IMPLIB:"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\UE4Editor-Smartsuit.suppressed.lib"
+/PDB:"C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Binaries\Win64\UE4Editor-Smartsuit.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_Smartsuit

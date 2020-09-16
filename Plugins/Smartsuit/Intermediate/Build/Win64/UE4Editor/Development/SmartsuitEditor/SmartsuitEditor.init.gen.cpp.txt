@@ -1,0 +1,3 @@
+C:\Users\razzz\Documents\GitHub\Unreal-Demo-Project\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\Definitions.SmartsuitEditor.h
+D:\Programs\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Programs\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
