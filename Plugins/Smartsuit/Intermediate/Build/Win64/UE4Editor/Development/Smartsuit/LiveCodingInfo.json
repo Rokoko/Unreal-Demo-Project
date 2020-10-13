@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Smartsuit.cpp.obj": [
+			"AnimNode_ModifyFaceCurves.cpp.obj",
+			"AnimNode_RokokoFacePose.cpp.obj",
+			"RokokoRemote.cpp.obj",
+			"RokokoStudioCommandAPI.cpp.obj",
+			"Smartsuit.cpp.obj",
+			"SmartsuitBlueprintLibrary.cpp.obj",
+			"SmartsuitController.cpp.obj",
+			"SmartsuitDefinitions.cpp.obj",
+			"SmartsuitPoseNode.cpp.obj",
+			"SmartsuitReceiver.cpp.obj",
+			"SmartsuitStreamingNetwork.cpp.obj",
+			"SmartsuitTPose.cpp.obj",
+			"VirtualProductionFrame.cpp.obj",
+			"VirtualProductionProp.cpp.obj",
+			"VirtualProductionSource.cpp.obj",
+			"VirtualProductionTracker.cpp.obj",
+			"VPStreamingNetwork.cpp.obj"
+		],
+		"Module.Smartsuit.gen.cpp.obj": [
+			"AnimNode_ModifyFaceCurves.gen.cpp.obj",
+			"AnimNode_RokokoFacePose.gen.cpp.obj",
+			"RokokoRemote.gen.cpp.obj",
+			"RokokoStudioCommandAPI.gen.cpp.obj",
+			"Smartsuit.init.gen.cpp.obj",
+			"SmartsuitBlueprintLibrary.gen.cpp.obj",
+			"SmartsuitController.gen.cpp.obj",
+			"SmartsuitDefinitions.gen.cpp.obj",
+			"SmartsuitPoseNode.gen.cpp.obj",
+			"SmartsuitReceiver.gen.cpp.obj",
+			"VirtualProductionFrame.gen.cpp.obj",
+			"VirtualProductionProp.gen.cpp.obj",
+			"VirtualProductionSource.gen.cpp.obj",
+			"VirtualProductionTracker.gen.cpp.obj"
+		]
+	}
+}
