@@ -20,7 +20,7 @@ This Demo project let's you star up a scene with a character already set up for 
 This demo project for Unreal contains a more advanced setup with [HTC Vive integration](https://www.rokoko.com/en/products/virtual-production) 
 and Virtual Camera use and streaming using the [Rokoko Remote App](https://apps.apple.com/us/app/rokoko-remote/id1465692290). 
 
-The project comes with dependencies for the plugins "Rokoko Live", "SteamVR" and "VirtualCamera".
+The project comes with dependencies for the plugins "Rokoko Studio Live", "SteamVR" and "VirtualCamera".
 
 ![Unrel Viewport ](Images/unrealViewport.PNG?raw=true)
 
