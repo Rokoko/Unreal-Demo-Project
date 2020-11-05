@@ -17,8 +17,8 @@ This Demo project let's you star up a scene with a character already set up for 
 
 ---
 
-For a guide on how to use the Demo Project go to the wiki page **Rokoko Studio Motion Builder Demo Project**:
-https://github.com/Rokoko/MoBu-Demo-Project/wiki/Rokoko-Studio---Motion-Builder-Demo-Project
+For a guide on how to use the Demo Project go to the wiki page **Rokoko Studio Unreal Demo Project**:
+https://github.com/Rokoko/Unreal-Demo-Project/wiki/Rokoko-Studio---Unreal-Demo-Project
 
 ![Unrel Viewport ](Images/unrealViewport.PNG?raw=true)
 
