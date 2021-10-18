@@ -1,6 +1,6 @@
 <h2 align="center"> Rokoko Studio - Unreal Virtual Production Sample Project</h1>
 
-[Rokoko Studio](https://www.rokoko.com/en/products/studio) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
+[Rokoko Studio](https://www.rokoko.com/studio) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
 
 This sample project for Unreal contains a more advanced setup with [HTC Vive integration](https://www.rokoko.com/en/products/virtual-production) for Virtual Camera use and [Face Capture](https://www.rokoko.com/en/products/face-capture) streaming using the [Rokoko Remote App](https://apps.apple.com/us/app/rokoko-remote/id1465692290). 
 
