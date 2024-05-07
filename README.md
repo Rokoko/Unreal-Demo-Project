@@ -1,12 +1,12 @@
-<h2 align="center"> Rokoko Studio - Unreal Virtual Production Sample Project</h1>
+<h2 align="center"> Rokoko Studio Legacy - Unreal Virtual Production Sample Project</h1>
 
-[Rokoko Studio](https://www.rokoko.com/studio) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
+[Rokoko Studio Legacy](https://support.rokoko.com/hc/en-us/articles/4410415520529-Getting-Started-Rokoko-Legacy) is A powerful and intuitive software for recording, visualizing and exporting motion capture.
 
-This sample project for Unreal contains a more advanced setup with [HTC Vive integration](https://www.rokoko.com/en/products/virtual-production) for Virtual Camera use and [Face Capture](https://www.rokoko.com/en/products/face-capture) streaming using the [Rokoko Remote App](https://apps.apple.com/us/app/rokoko-remote/id1465692290). 
+This sample project for Unreal contains a more advanced setup with [HTC Vive integration](https://support.rokoko.com/hc/en-us/articles/4410465135761-Setting-up-Virtual-Production-in-Rokoko-Studio-Legacy) for Virtual Camera use and [Face Capture](https://www.rokoko.com/en/products/face-capture) streaming using the [Rokoko Remote App](https://apps.apple.com/us/app/rokoko-remote/id1465692290). 
 
 The project comes with dependencies for the plugins "Rokoko Live", "SteamVR" and "VirtualCamera".
 
-![Unrel Viewport ](Images/unrealViewport.PNG?raw=true)
+![Unreal Viewport ](Images/unrealViewport.PNG?raw=true)
 
 If you want to learn more about the basics of setting up a Smartsuit with Unreal Engine, you can watch this tutorial: https://www.youtube.com/watch?v=ibawBo0d4gk
 Or you can browse the tutorials on https://www.rokoko.com/
@@ -15,9 +15,9 @@ Or you can browse the tutorials on https://www.rokoko.com/
 
 ## Setting up the Live Link stream
 
-In order to use face and tracker information, you'll first need to setup a connection between Rokoko Studio and Unreal Engine through Live Link. This is the format we currently stream the information for face and trackers in, though you can still use the suit without Live Link. 
+In order to use face and tracker information, you'll first need to setup a connection between Rokoko Studio Legacy and Unreal Engine through Live Link. This is the format we currently stream the information for face and trackers in, though you can still use the suit without Live Link. 
 
-In Rokoko Studio, set up live streaming as normal. For the unreal project we are using the port 14043 for suits and 14045 for virtual production. 
+In Rokoko Studio Legacy, set up live streaming as normal. For the unreal project we are using the port 14043 for suits and 14045 for virtual production. 
 
 In Unreal, go to window - Live Link. Add a source, and choose "Rokoko Studio Source". Choose "Studio", and click "Okay". 
 
